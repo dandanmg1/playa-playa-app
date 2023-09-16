@@ -1,0 +1,25 @@
+.player-card {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px;
+    height: auto;
+    width: auto;
+}
+
+.player-card h1 {
+    font-size: 24px;
+    margin-bottom: 8px;
+  }
+  
+  .player-card h2 {
+    font-size: 18px;
+    color: grey;
+    margin-top: 8px;
+    margin-bottom: 16px;
+  }
+
+  .player-card p {
+    margin: 8px 0;
+  }
